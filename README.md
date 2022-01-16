@@ -1,4 +1,4 @@
-### Hi there, I'm Mayank [website] 👋
+### Hi there, I'm Mayank 👋
 
 ## I'm a Software Enginner!
 
