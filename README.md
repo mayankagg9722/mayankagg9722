@@ -2,7 +2,7 @@
 
 ## I'm a Software Enginner!
 
-- 🔭 &nbsp; I’m currently working at Microsoft
+🔭 &nbsp; I’m currently working at Microsoft
 
 ### Connect with me:
 
