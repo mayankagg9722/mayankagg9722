@@ -14,7 +14,7 @@
 
 <br />
 
-[website]: mayankaggarwal.co
+[website]: https://mayankaggarwal.co/
 [yoututube]: https://www.youtube.com/c/MayankAggarwal/
 [twitter]: https://twitter.com/Mayank9722
 [instagram]: https://www.instagram.com/mayankagg9722/
