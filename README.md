@@ -1,13 +1,14 @@
-### Hi there, I'm Mayank 👋
+## Hi there, I'm Mayank 👋
 
-## I'm a Software Enginner!
+### I'm a Software Enginner!
 
 🔭 &nbsp; I’m currently working at Microsoft Azure Backup
 
-## Mayank's stats
-[![](https://github-readme-stats.vercel.app/api?username=mayankagg9722)](https://github.com/anuraghazra/github-readme-stats)
+
+### Stats
 ![](https://github-readme-stats.vercel.app/api?username=mayankagg9722&show_icons=true&hide_title=false)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
 
 ### Connect with me:
 
