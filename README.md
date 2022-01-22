@@ -6,8 +6,8 @@
 
 
 ### Stats
-![](https://github-readme-stats.vercel.app/api?username=mayankagg9722&show_icons=true&hide_title=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=mayankagg9722&show_icons=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mayankagg9722)]
 
 
 ### Connect with me:
