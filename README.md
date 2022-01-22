@@ -4,6 +4,8 @@
 
 🔭 &nbsp; I’m currently working at Microsoft Azure Backup
 
+[![Mayank's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayankagg9722)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Connect with me:
 
 [<img align="left" alt="https://mayankaggarwal.co/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
