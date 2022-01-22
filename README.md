@@ -8,7 +8,6 @@
 ### Stats
 ![](https://github-readme-stats.vercel.app/api?username=mayankagg9722&show_icons=true)
 
-<br />
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mayankagg9722&layout=compact)
 
