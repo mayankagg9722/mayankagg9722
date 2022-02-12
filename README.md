@@ -1,8 +1,6 @@
 ## Hi there, I'm Mayank 👋
 
-### I'm a Software Enginner!
-
-I am a self-motivated and progress-driven Software Engineer with an extensive background in this industry. With a long-standing record of initiative and innovation, I have developed and executed strategies that I believe will bring value to the organization sharing the same motivation.
+I am a self-motivated and progress-driven **Software Engineer** with an extensive background in this industry. With a long-standing record of initiative and innovation, I have developed and executed strategies that I believe will bring value to the organization sharing the same motivation.
 
 In my current position at Microsoft, I am working with the Azure Backup R&D team.
 
