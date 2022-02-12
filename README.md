@@ -1,5 +1,27 @@
 ## Hi there, I'm Mayank 👋
 
+### Stats
+![](https://github-readme-stats.vercel.app/api?username=mayankagg9722&show_icons=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mayankagg9722&layout=compact)
+
+### Connect with me:
+[<img align="left" alt="https://mayankaggarwal.co/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="mayank | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="mayank | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="mayank | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="mayank | Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][yoututube]
+
+<br />
+
+
+[website]: https://mayankaggarwal.co/
+[yoututube]: https://www.youtube.com/c/MayankAggarwal/
+[twitter]: https://twitter.com/Mayank9722
+[instagram]: https://www.instagram.com/mayankagg9722/
+[linkedin]: https://in.linkedin.com/in/mayankagg9722 
+
+### More about me:
+
 I am a self-motivated and progress-driven **Software Engineer** with an extensive background in this industry. With a long-standing record of initiative and innovation, I have developed and executed strategies that I believe will bring value to the organization sharing the same motivation.
 
 In my current position at Microsoft, I am working with the Azure Backup R&D team.
@@ -20,25 +42,3 @@ To know me better:
 "Every once in a while, a new technology, an old problem, and a big idea turn into an innovation."
 Love To Discover, Learn And Code. 
 Follow your passion 👣
-
-### Stats
-![](https://github-readme-stats.vercel.app/api?username=mayankagg9722&show_icons=true)
-
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mayankagg9722&layout=compact)
-
-### Connect with me:
-
-[<img align="left" alt="https://mayankaggarwal.co/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="mayank | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="mayank | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="mayank | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="mayank | Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][yoututube]
-
-<br />
-
-[website]: https://mayankaggarwal.co/
-[yoututube]: https://www.youtube.com/c/MayankAggarwal/
-[twitter]: https://twitter.com/Mayank9722
-[instagram]: https://www.instagram.com/mayankagg9722/
-[linkedin]: https://in.linkedin.com/in/mayankagg9722 
