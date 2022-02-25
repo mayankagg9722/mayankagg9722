@@ -11,14 +11,15 @@ In my current position at **Microsoft**, I am working with the **Azure Backup R&
 [<img align="left" alt="https://mayankaggarwal.co/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="mayank | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="mayank | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="mayank | Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][yoututubeopeners]
 [<img align="left" alt="mayank | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="mayank | Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][yoututube]
-
 <br />
 
 
 [website]: https://mayankaggarwal.co/
-[yoututube]: https://www.youtube.com/c/MayankAggarwal/
+[yoututubeopeners]: https://www.youtube.com/channel/UCGZ2fwNSJF0baTx1T2ooC-Q
 [twitter]: https://twitter.com/Mayank9722
 [instagram]: https://www.instagram.com/mayankagg9722/
 [linkedin]: https://in.linkedin.com/in/mayankagg9722 
+[yoututube]: https://www.youtube.com/c/MayankAggarwal/
